@@ -105,4 +105,4 @@ def n2w(number):
         print("AHHAHH!! somethings FISHY HERE")
             
     else:
-        print("wohhh!! TOO MANY NUMBERS ")
+        print("wohhhwohhh!! its sooo big ")
